@@ -1,0 +1,46 @@
+.n {
+    border-radius: 30px;
+    border-color: red;
+
+}
+
+.info-s {
+    position: absolute;
+    top: 90px;
+    left: 1750px;
+    color: aqua;
+    font-family: Courier New;
+}
+
+.terms-s {
+    position: absolute;
+    top: 90px;
+    left: 1500px;
+    color: aqua;
+    font-family: Courier New;
+}
+
+.sel {
+    position: absolute;
+    top: 350px;
+    right: 670px;
+    font-family: Arial;
+}
+
+
+.dow {
+    position: absolute;
+    top: 380px;
+    right: 930px;
+    width: 150px;
+    height: 50px;
+    color: black;
+    background-color: yellow;
+    border-radius: 7px;
+
+}
+
+.dow:hover {
+    color: white;
+    background-color: blue;
+}
